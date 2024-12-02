@@ -73,12 +73,7 @@ I am an undergraduate Software Engineering student with a strong foundation in C
   <!--- stats (start) -->
 [![](https://github-readme-stats.vercel.app/api?username=AldhaValenzuelaH&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AldhaValenzuelaH)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=AldhaValenzuelaH&theme=material-palenight)](https://github.com/AldhaValenzuelaH)
-<table align="center">
-<tr border="none">
-<td width="30%" >
-  <img   width=400 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AldhaValenzuelaH&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
+<img   width=400 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AldhaValenzuelaH&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
 <!--- stats (end) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
